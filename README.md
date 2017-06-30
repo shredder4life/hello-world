@@ -1,3 +1,3 @@
 # hello-world
 Brand new to GitHub. Learning the ropes.
-Beginning C++ and computer programming/computer science overall.
+Just started learning C++ and computer programming/computer science overall about 2 months ago. Slow Going.
